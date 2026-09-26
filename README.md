@@ -14,16 +14,6 @@ Currently working as a **Junior Full-Stack Developer**, building production syst
 * **Data & Infra:** PostgreSQL, MongoDB, Redis, Elasticsearch, Qdrant
 * **Tools:** Docker, RabbitMQ, Git, REST APIs
 
-### 🛠️ What you'll find here
-
-I like building things that solve real problems — from **AI-powered workflows and RAG systems** to backend services, automation pipelines, and full-stack applications.
-
-* 🤖 LLM-powered automation & AI agents
-* 🔎 RAG with semantic & multimodal retrieval
-* ⚙️ Event-driven microservices
-* 📄 Document processing & report generation
-* 🌐 Full-stack applications & APIs
-
 ### 🌱 Currently exploring
 
 AI engineering, scalable backend systems, better RAG architectures, MCPs and turning AI prototypes into reliable products.
